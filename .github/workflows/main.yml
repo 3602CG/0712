@@ -1,0 +1,12 @@
+{{beizhu.DATA}}
+{{saylove.DATA}}
+你现在所在的地区：{{cityname.DATA}}
+今天的日期：{{riqi.DATA}}{{beizhu2.DATA}}今天的天气：{{tianqi.DATA}}
+最高气温：{{high.DATA}}
+最低气温：{{1ow.DATA}}
+风向：{{winddir.DATA}}
+风力：{{windclass.DATA}}
+今天是我们在一起的第{{lianai.DATA}}天
+今天离程先生的生日还有{{shengri2.DATA}}天
+今天离程太太的生日还有{{shengri1.DATA}}天
+{{zaoan.DATA}}
